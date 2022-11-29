@@ -1,0 +1,81 @@
+Proqramlaşdırma dili nədir?
+Proqramlaşdırma dili proqramların yazıldığı rəsmi qaydalar toplusudur. İnsanlar arasında ünsiyyət üçün adi
+dil, kompüterlə ünsiyyət üçün isə proqramlaşdırma dili lazımdır. Hər hansı bir təbii dildə olduğu kimi, burada
+leksika ehtiyatı - sözlər, funksiyalar və operatorlar var ki, bunlardan da sintaksis qaydalarına uyğun ifadələr
+qurulur. Onların aydın, dəqiq müəyyən edilmiş mənası var, kompüter üçün başa düşülən - semantika.
+Hər dəfə sosial mediada bir yazı bəyənəndə, e-poçt göndərəndə və ya telefonunuzda taymer qurduqda,
+pərdə arxasında proqramlaşdırma dili işləyir. İlk proqramlaşdırma dili 1843-cü ildə icad edilmişdir. Ada
+Lavleys ilk hesablama maşını üçün dünyada ilk maşın alqoritmini icad etdi və o dövrdə kompüterlər olmadığı
+üçün onu bir kağız parçasına yazmışdı.
+Əslində proqramlaşdırma dili kompüter dili deyil. Maşın sıfırların və birlərin ardıcıllığını başa düşür: dövrədə
+gərginlik var - bir, yox - sıfır. Buna görə də, hər hansı bir proqram əvvəlcə maşın təlimatları toplusuna
+çevrilməlidir.
+Bunun üçün iki alət var - kompilyator və tərcüməçi. Kompilyator belə işləyir: siz ona proqramın bütün
+mətnini verirsiniz və o, onu icra olunan koda, prosessor üçün təlimatlar toplusuna çevirir. Tərcüməçi daha
+çox sinxron tərcüməçiyə bənzəyir: onlar bir ifadə dedilər - sinxron tərcüməçi onu dərhal tərcümə etdi və
+kompüter onu yerinə yetirir.
+Platforma nə deməkdir?
+Platforma digər proqramların, proseslərin və ya texnologiyaların inkişafı üçün təməl kimi istifadə olunan
+texnologiyalar qrupudur.
+Fərdi kompüterlərdə platforma proqram təminatının işləyə biləcəyi əsas aparat (kompüter) və proqram
+təminatıdır (əməliyyat sistemi). Bu mühit hər hansı proqram və ya proqram təminatının dəstəkləndiyi
+və/yaxud inkişaf etdirildiyi təməldir.
+Tarixən bir platforma üçün yazılmış tətbiq proqramları digər platformada işləmirdi.
+Hesablama platformasına misal olaraq əməliyyat sistemi kimi Windows ilə işləyən müasir noutbuk
+kompüteri göstərmək olar. Başqa bir nümunə Mac OS X əməliyyat sistemi ilə işləyən Apple kompüteri ola
+bilər.
+Mobil platformalar
+Bu gün smartfonlar və planşetlər kimi yeni mobil cihazların öz proqram və aparatları var. Onlar digər
+sistemlərdən asılı olmayaraq fəaliyyət göstərirlər və öz proqramlarını, alətlərini və digər proqram təminatını
+işlədə bilirlər, buna görə də onları platforma kimi səmərəli hesab etmək olar.
+Rəqəmsal platformalar
+Proqram yığınları və bəzi tətbiqlər bəzən rəqəmsal platformalar kimi də adlandırılır. Məsələn, SQL -CRM,
+analitika və qeydlərin idarə edilməsi üçün digər alətləri işə salmaq üçün istifadə olunan verilənlər bazası
+proqramıdır.
+Brauzerlər
+
+Daha yeni veb brauzerlər üçüncü tərəf plaginlərinin brauzerin bir hissəsi kimi işləməsinə imkan verir. Buna
+görə də, bəzi brauzerlər digər tətbiq proqramlarını idarə etmək üçün əsas kimi istifadə edildiyi üçün indi
+platformalar adlandırılır.
+Paradigms
+Proqramlaşdırma paradiqması proqramlaşdırma tərzini müəyyən edən anlayışlar, qaydalar və abstraksiyalar
+toplusudur. Onlara uyğun olaraq, hər bir paradiqmanın əsas strukturların istifadəsinə yanaşması var.
+İllər ərzində proqram tərtibatçıları bütün hallarda problemləri həll etmək üçün effektiv yanaşmalar
+yaratdılar. Təcrübədə sınanmış bilikləri ümumiləşdirərək, onu proqramlaşdırma paradiqmalarına
+formallaşdırdılar. İndi problemin həlli üçün hansı paradiqmanın (və müvafiq olaraq, proqramlaşdırma dilinin)
+daha uyğun olduğunu öyrənmək üçün problemi təsnif etmək kifayətdir.
+Dörd əsas proqramlaşdırma paradiqması:
+Imperativ paradiqma
+“Əvvəlcə bunu et, sonra bunu et” sözü imperativ paradiqmanı qısaca yekunlaşdıran qısa bir ifadədir.
+İmperativ üslubda proqram kodu proqramın məntiqini təsvir edən ayrı-ayrı əmrlər, göstərişlər ardıcıllığı kimi
+təşkil edilir. Belə kodu oxumaqla siz hansı kod fraqmentlərinin işə salınacağından asılı olaraq tətbiqin
+vəziyyətinin bu və ya digər vaxt necə dəyişəcəyini başa düşə bilərsiniz
+Funksional paradiqma
+Funksional proqramlaşdırma bir çox cəhətdən imperativ proqramlaşdırmadan daha sadə və təmiz
+proqramlaşdırma paradiqmasıdır. Səbəb paradiqmanın sırf riyazi intizamdan qaynaqlanmasıdır: funksiyalar
+nəzəriyyəsi.
+Xüsusiyyətlər:
+Nəticədə alınan dəyərlər dəyişməzdir.
+Kompozit dəyərin hər hansı komponentini dəyişdirmək mümkün deyil.
+Düzəliş olaraq, kompozit dəyərin düzəldilmiş surətini yarada bilərsiniz.
+Zaman imperativ paradiqma ilə müqayisədə kiçik rol oynayır.
+Bütün hesablamalar (çağırmaq) funksiyaları tətbiq etməklə aparılır
+Məntiqi paradiqma
+Məntiqi paradiqma əsas faktlardan və münasibətlərdən bilik çıxarmaqla bağlı problem sahələrini həll etmək
+üçün çox uyğundur.
+Xüsusiyyətlər:
+Süni intellekt daxilində avtomatik sübutlar.
+Proqramın icrası bir sıra nəticələrdən istifadə edərək bir sıra faktlar vasitəsilə sistemli axtarışa çevrilir.
+Obyekt yönümlü paradiqma
+Obyekt yönümlü proqramlaşdırma (OOP) hələ də imperativ paradiqma ilə bağlıdır, lakin onu obyektlərə və
+siniflərə bölərək ətraf dünya haqqında bilikdə daha da irəliləmişdir.
+
+Proqram təminatı - kompüterdə tapşırıqların yerinə yetirilməsi üçün hazırlanması prosesini asanlaşdıran və
+onların maşından keçməsini təşkil edən xüsusi proqramlar toplusu, habelə prosedurlar, təsvirlər, təlimatlar
+və qaydalar, bu komponentlərlə əlaqəli bütün sənədlərlə birlikdə istifadə olunur. kompüter sisteminin
+işləməsi.
+Onlar məlumatı emal edir, cihazı yox, kompüter proqramının işinə nəzarət edir.
+Proqram təminatının məqsədi:
+kompüterin sağlamlığının təmin edilməsi; istifadəçinin kompüterlə qarşılıqlı əlaqəsini asanlaşdırmaq;
+tapşırığın qoyulmasından nəticənin əldə edilməsinə qədər dövrün azaldılması; kompüter resurslarından
+istifadənin səmərəliliyinin artırılması.
